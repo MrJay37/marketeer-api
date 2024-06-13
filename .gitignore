@@ -1,0 +1,10 @@
+# Virtual environment and PyCharm config
+venv/
+.idea/
+
+# Ignore pycache folders
+**/__pycache__
+
+/*.py
+!setup.py
+!lambda_function.py
